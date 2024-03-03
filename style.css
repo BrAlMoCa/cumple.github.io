@@ -18,9 +18,9 @@ header {
 .h1_titulo_encabezado {
     font-size: 27px;
     margin-left: 20px;
-    padding: 2px;
+    padding: 8px;
     color: white;
-    border: whitesmoke solid 2px;
+    border: whitesmoke solid 1px;
     box-shadow: -3px 2px 2px whitesmoke;
 }
 
@@ -42,8 +42,8 @@ header {
     padding: 10px;
     border-radius: 5px;
     height: auto;
-    border: #e43d4b solid 2px;
-    box-shadow: 2px 2px 5px 2px #ff6060;
+    border: #000 solid 2px;
+    box-shadow: 2px 2px 5px 1px #ff4757;
     color: white;
 }
 
